@@ -25,6 +25,6 @@
   },
   "dependencies": {
     "commander": "^2.15.1",
-    "csv-parse": "^2.5.0"
+    "csv-parse": "^4.6.5"
   }
 }
